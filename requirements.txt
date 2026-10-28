@@ -1,6 +1,6 @@
 
+streamlit
 tensorflow
-gradio
 numpy
 Pillow
 opencv-python-headless
